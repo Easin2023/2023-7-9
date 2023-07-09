@@ -1,0 +1,44 @@
+/* font shearad */
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+/* head-section */
+*{
+    margin: 0;
+}
+/* head-section */
+header{
+    background-image: url(images/banner/banner3.png);
+}
+.head-section{
+   text-align: right;
+   padding:216px 230px 364px 740px;
+}
+
+.h1-tag{
+    color: #FFF;
+    text-align: right;
+    font-size: 36px;;
+    font-weight: 700;
+    padding-bottom: 0;
+
+}
+.paragraph{
+    color: #FFF;
+    font-size:12px;
+    font-weight: 400;
+    padding-top: 7px;
+    padding-bottom: 8px;
+
+}
+.button{
+    border-radius: 5px;
+    background: #FFF;
+    color: #005FAC;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+    padding: 11px 22px;
+}
+
