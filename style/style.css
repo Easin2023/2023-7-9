@@ -115,7 +115,7 @@ header{
     height: 300px;
     /* margin-left: 150px; */
     border-radius: 10px;
-    position: absolute;
+    /* position: absolute; */
     margin: 150px 61px;
 }
 .section-3-text-no1{
@@ -131,5 +131,65 @@ header{
 }
 .section-3-text{
     margin: 140px;
-    padding-right: 100px;
+    padding: 72px 117px 30px 0px;
 }
+/* footer section */
+footer{
+    background-color:#151414;;
+    width: 1263px;
+    height: 500px;
+    flex-shrink: 0
+}
+.footer-main-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 50px;
+}
+.column-title{
+    color: #F8F8F8;
+    font-size: 36px;
+    font-weight: 700;
+    padding-bottom: 5px;
+}
+.column-paragraph{
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    width: 357px;
+}
+.foot-h5-tag{
+    color: #FFF;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 26px;
+    padding-top: 10px;
+}
+.column-title-2{
+    color: #FFF;
+    font-size: 30px;
+    font-weight: 600;
+}
+.input-box{
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #FFF;
+    padding: 15px;
+    background-color: #151414;
+}
+.foot-btn{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 6px;
+    background: #005FAC;
+    padding:  11px 22px;
+    border: 0;
+    margin-top: 7px;
+}
+.a-1{
+    padding:  3px;
+
+}
+
+
