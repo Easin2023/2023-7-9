@@ -79,6 +79,9 @@ header{
 }
 
 /* My Plans section style */
+.abut-container{
+    padding-top: 125px;
+}
 
 .about{
     color: #151414;
@@ -91,10 +94,42 @@ header{
     justify-content: space-around;
     margin:80px;
 }
-/* .plan-item-text-1{ */
+.plan-item-text-1{
+    color: #151414;
     text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 6px;
 }
-.plans-item-1{
+.plan-item-paragraph-1{
+    color:#737272;
     text-align: center;
-    align-items:center;
+    font-size: 15px;
+    font-weight: 500;
+    margin-top: 6px;
+}
+/* section-3 */
+.section-3{
+    background-image:linear-gradient(90deg ,#005FAC ,rgba(0,0,0,0.1)), url(images/watch.png);
+    width: 1140px;
+    height: 300px;
+    /* margin-left: 150px; */
+    border-radius: 10px;
+    position: absolute;
+    margin: 150px 61px;
+}
+.section-3-text-no1{
+    color: #FFF;
+    font-family: Work Sans;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-right: 400px;
+    padding-bottom: 4px;
+
+}
+.section-3-text{
+    margin: 140px;
+    padding-right: 100px;
 }
